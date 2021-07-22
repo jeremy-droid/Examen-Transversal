@@ -1,0 +1,101 @@
+
+#header img {
+    width: 80px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+p {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.block-footer {
+    background-color: #1860e2;
+    border-color: #080fef;
+    color: white;
+    margin: 15px;
+    fill: 15px;
+    margin-top: 5%;
+    border-style: solid;
+    border-top-width: 10px;
+    border-bottom-width: 10px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+}
+
+.centr {
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.btn_buscar {
+    text-align: right;
+}
+
+body {
+    background-image: url('/static/core/img/fondo.png');
+  }
+
+ 
+  .form-register {
+    width: 500px;
+    background: #383838;
+    padding: 30px;
+    margin: auto;
+    margin-top: 1%;
+    border-radius: 4px;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: rgb(179, 168, 168);
+    box-shadow: 7px 13px 37px #000;
+  }
+  
+  .form-register h4 {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  
+  .controls {
+    width: 100%;
+    background: #3e3f3f;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #000000;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: rgb(255, 251, 251);
+  }
+  
+  .form-register p {
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+  }
+  
+  .form-register a {
+    color: rgb(87, 75, 75);
+    text-decoration: none;
+  }
+  
+  .form-register a:hover {
+    color: white;
+    text-decoration: underline;
+  }
+  
+  .form-register .botons {
+    width: 100%;
+    background: #1a1b1d;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    text-align: center;
+  }
